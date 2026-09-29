@@ -1,0 +1,48 @@
+name: Build feed
+
+on:
+  schedule:
+    - cron: "3,18,33,48 * * * *"  # every 15 min; GitHub may start these a few minutes late
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    env:
+      SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+    steps:
+      - uses: actions/checkout@v5
+      - name: Build feed.xml and index.html
+        run: python3 build.py
+      - name: Skip the deploy when no new headline is due
+        id: check
+        run: |
+          live=$(curl -fsL "${SITE_URL}feed.xml" | grep -c '<item>' || true)
+          new=$(grep -c '<item>' _site/feed.xml || true)
+          echo "live feed: ${live:-0} items, new build: ${new:-0} items"
+          if [ "${live:-0}" != "${new:-0}" ] || [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "deploy=true" >> "$GITHUB_OUTPUT"
+          fi
+      - if: steps.check.outputs.deploy == 'true'
+        uses: actions/configure-pages@v5
+      - if: steps.check.outputs.deploy == 'true'
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+      - if: steps.check.outputs.deploy == 'true'
+        id: deployment
+        uses: actions/deploy-pages@v4

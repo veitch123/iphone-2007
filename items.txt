@@ -1,0 +1,277 @@
+# iPhone 2007 Replay — headlines
+# Format: YYYY-MM-DD HH:MM (US Pacific, PDT)|source|headline|url|exact-or-approx
+# Every headline was copied from a page that was opened, with its original wording.
+# "approx" = only the date is known; those are spaced across their day.
+# Ars Technica is missing: it blocks automated fetching. Reuters/AP/BusinessWeek
+# items link to their CNET or msnbc copies (reuters.com blocked); the Mossberg
+# review links to its AllThingsD copy (wsj.com blocked).
+2007-06-05 05:25|Apple PR|Apple Updates MacBook Pro|https://www.apple.com/newsroom/2007/06/05Apple-Updates-MacBook-Pro/|approx
+2007-06-05 05:32|MacRumors|Apple Releases New MacBook Pros With Santa Rosa & LED Displays|https://www.macrumors.com/2007/06/05/apple-releases-new-macbook-pros-with-santa-rosa/|exact
+2007-06-05 05:45|TUAW|MacBook Pro line updated|https://web.archive.org/web/20070607212837/http://www.tuaw.com:80/2007/06/05/macbook-pro-line-updated/|exact
+2007-06-05 05:46|Engadget|MacBook Pros updated: Santa Rosa, LED backlighting, and 1920x1200 display|https://www.engadget.com/2007-06-05-macbook-pros-updated-santa-rosa-led-backlighting-and-1920x120.html|exact
+2007-06-05 06:00|TUAW|TUAW Poll: Will you line up for an iPhone?|https://web.archive.org/web/20070607213635/http://www.tuaw.com:80/2007/06/05/tuaw-poll-will-you-line-up-for-an-iphone/|exact
+2007-06-05 06:07|Gizmodo|New Apple MacBook Pros with LED-Backlit Display|https://gizmodo.com/new-apple-macbook-pros-with-led-backlit-display-265939|exact
+2007-06-05 09:32|Gizmodo|Details on the New LED Macbook Pro|https://gizmodo.com/details-on-the-new-led-macbook-pro-266091|exact
+2007-06-05 11:35|AppleInsider|AT&T's "Fine Edge" to boost network speeds ahead of iPhone|https://appleinsider.com/articles/07/06/05/atts_fine_edge_to_boost_network_speeds_ahead_of_iphone|exact
+2007-06-05 12:23|MacRumors|AT&T Optimizing EDGE Network Ahead Of iPhone|https://www.macrumors.com/2007/06/05/atandt-optimizing-edge-network-ahead-of-iphone/|exact
+2007-06-05 18:00|Apple PR|Warner Music Japan Catalog Now Available on the iTunes Store in Japan|https://www.apple.com/newsroom/2007/06/06Warner-Music-Japan-Catalog-Now-Available-on-the-iTunes-Store-in-Japan/|approx
+2007-06-06 09:53|MacRumors|ZFS To Become Default File System In Leopard|https://www.macrumors.com/2007/06/06/zfs-to-become-default-file-system-in-leopard/|exact
+2007-06-06 11:00|AppleInsider|Apple to adopt ZFS as default file system for Leopard|https://appleinsider.com/articles/07/06/06/apple_to_adopt_zfs_as_default_file_system_for_leopard|exact
+2007-06-06 11:51|MacRumors|New iPhone Ad Focuses on Safari [Video, Updated]|https://www.macrumors.com/2007/06/06/new-iphone-ad-focuses-on-safari/|exact
+2007-06-06 15:15|Daring Fireball|iPhone: Using Cell Towers for Positioning?|https://daringfireball.net/2007/06/cell_tower_positioning|exact
+2007-06-06 15:39|CNET|Apple, AT&T stores prepare for iPhone frenzy|https://www.cnet.com/tech/mobile/apple-at-t-stores-prepare-for-iphone-frenzy/|exact
+2007-06-06 16:51|Daring Fireball|Regarding iTunes Plus Metadata|https://daringfireball.net/2007/06/itunes_plus_metadata|exact
+2007-06-06 20:59|MacRumors|Apple Removes '2 Year Contract Required' Note from iPhone Ads|https://www.macrumors.com/2007/06/06/apple-removes-2-year-contract-required-note-on-ads/|exact
+2007-06-07 07:00|AppleInsider|First photos from Apple's WWDC emphasize Leopard focus|https://appleinsider.com/articles/07/06/07/first_photos_from_apples_wwdc_emphasize_leopard_focus|exact
+2007-06-07 10:27|MacRumors|3 Million iPhones on June 29th?|https://www.macrumors.com/2007/06/07/3-million-iphones-on-june-29th/|exact
+2007-06-07 11:00|AppleInsider|Apple building stockpile of 3 million iPhones for launch?|https://appleinsider.com/articles/07/06/07/apple_building_stockpile_of_3_million_iphones_for_launch|exact
+2007-06-07 11:40|BusinessWeek|How big will the iPhone be?|https://www.nbcnews.com/id/wbna19095852|exact
+2007-06-07 15:56|Daring Fireball|The High-Resolution 17-Inch MacBook Pro|https://daringfireball.net/2007/06/high_res_macbook_pro|exact
+2007-06-07 19:15|MacRumors|iPhone Banners at AT&T Stores|https://www.macrumors.com/2007/06/07/iphone-banners-at-atandt-stores/|exact
+2007-06-08 14:36|MacRumors|Apple's iPhone Specs and Requirements|https://www.macrumors.com/2007/06/08/apples-iphone-specs-and-requirements/|exact
+2007-06-08 16:35|Daring Fireball|BusinessWeek: 3 Million iPhones on June 29|https://daringfireball.net/linked/2007/06/08/3m|approx
+2007-06-08 20:17|MacRumors|iPhone Details from AT&T's Sales Training Workbook|https://www.macrumors.com/2007/06/08/iphone-details-from-atandts-sales-training-workbook/|exact
+2007-06-09 12:26|Reuters|Gadget geeks plan to camp out for iPhone|https://www.cnet.com/culture/gadget-geeks-plan-to-camp-out-for-iphone/|exact
+2007-06-09 13:00|TUAW|WWDC 2007 Keynote bingo|https://web.archive.org/web/20070611121357/http://www.tuaw.com:80/2007/06/09/wwdc-2007-keynote-bingo/|exact
+2007-06-09 15:28|Daring Fireball|An Anthropomorphized Brushed Metal Interface Theme Shows Up for the WWDC Preview Build of Mac OS X Leopard|https://daringfireball.net/2007/06/brushed_metal_leopard|exact
+2007-06-09 19:30|Daring Fireball|Mac Rumors: iPhone Details From AT&T’s Sales Training Workbook|https://daringfireball.net/linked/2007/06/09/iphone-workbook|approx
+2007-06-10 09:26|Engadget|WWDC Monday at 10:00AM PST / 1:00PM EST, set your alarms|https://www.engadget.com/2007-06-10-wwdc-monday-at-10-00am-pst-1-00pm-est-set-your-alarms.html|exact
+2007-06-10 14:00|AppleInsider|Apple WWDC to focus on Leopard, web media, Windows converts|https://appleinsider.com/articles/07/06/10/apple_wwdc_to_focus_on_leopard_web_media_windows_converts|exact
+2007-06-10 15:08|MacRumors|Worldwide Developers Conference 2007 Rumor Roundup|https://www.macrumors.com/2007/06/10/worldwide-developers-conference-2007-rumor-roundup/|exact
+2007-06-11 08:16|Engadget|Steve Jobs live from WWDC 2007|https://www.engadget.com/2007-06-11-steve-jobs-live-from-wwdc-2007.html|exact
+2007-06-11 08:55|MacRumors|WWDC 2007 Keynote Coverage|https://www.macrumors.com/2007/06/11/wwdc-2007-keynote-coverage/|exact
+2007-06-11 09:30|TUAW|Rumor: Safari for Windows|https://web.archive.org/web/20070714231716/http://www.tuaw.com:80/2007/06/11/rumor-safari-for-windows/|exact
+2007-06-11 09:59|TUAW|Metaliveblogging the WWDC Keynote|https://web.archive.org/web/20070613164506/http://www.tuaw.com:80/2007/06/11/metaliveblogging-the-wwdc-keynote/|exact
+2007-06-11 10:20|AppleInsider|Apple announces new features of Mac OS X Server Leopard|https://appleinsider.com/articles/07/06/11/apple_announces_new_features_of_mac_os_x_server_leopard.html|exact
+2007-06-11 10:29|MacRumors|WWDC: Game On|https://www.macrumors.com/2007/06/11/wwdc-game-on/|exact
+2007-06-11 11:00|AppleInsider|Apple to release Safari browser for Windows|https://appleinsider.com/articles/07/06/11/apple_to_release_safari_browser_for_windows|exact
+2007-06-11 11:00|Daring Fireball|More Ice Water for People in Hell|https://daringfireball.net/linked/2007/06/11/safari|approx
+2007-06-11 11:06|MacRumors|WWDC: Leopard Details|https://www.macrumors.com/2007/06/11/wwdc-leopard-details/|exact
+2007-06-11 11:12|Engadget|Safari 3 for Windows|https://www.engadget.com/2007-06-11-safari-3-for-windows.html|approx
+2007-06-11 11:13|CNET|Apple bombshell: Safari coming to Windows|https://www.cnet.com/tech/services-and-software/apple-bombshell-safari-coming-to-windows/|exact
+2007-06-11 11:14|Engadget|iPhone to ship on June 29th at 6pm|https://www.engadget.com/2007-06-11-iphone-to-ship-on-june-29th-at-6pm.html|approx
+2007-06-11 11:25|MacRumors|WWDC: Safari For Windows|https://www.macrumors.com/2007/06/11/wwdc-safari-for-windows/|exact
+2007-06-11 11:25|MacRumors|WWDC: iPhone Release Time, Developer Access|https://www.macrumors.com/2007/06/11/wwdc-iphone-release-time-developer-access/|exact
+2007-06-11 11:45|Apple PR|Apple Announces New Mac OS X Server Leopard Features|https://www.apple.com/newsroom/2007/06/11Apple-Announces-New-Mac-OS-X-Server-Leopard-Features/|approx
+2007-06-11 11:45|Apple PR|Apple Introduces Safari for Windows|https://www.apple.com/newsroom/2007/06/11Apple-Introduces-Safari-for-Windows/|approx
+2007-06-11 11:45|Apple PR|Apple Unveils Near Final Mac OS X Leopard|https://www.apple.com/newsroom/2007/06/11Apple-Unveils-Near-Final-Mac-OS-X-Leopard/|approx
+2007-06-11 11:45|Apple PR|iPhone to Support Third-Party Web 2.0 Applications|https://www.apple.com/newsroom/2007/06/11iPhone-to-Support-Third-Party-Web-2-0-Applications/|approx
+2007-06-11 11:45|AppleInsider|iPhone to support third-party Web 2.0 applications|https://appleinsider.com/articles/07/06/11/iphone_to_support_third_party_web_2_0_applications|exact
+2007-06-11 12:00|AppleInsider|Apple unveils near final version of Mac OS X Leopard|https://appleinsider.com/articles/07/06/11/apple_unveils_near_final_version_of_mac_os_x_leopard|exact
+2007-06-11 12:00|Gizmodo|Apple WWDC 2007 Liveblog - Steve Jobs Keynote|https://gizmodo.com/apple-wwdc-2007-liveblog-steve-jobs-keynote-267711|exact
+2007-06-11 12:00|TUAW|Safari 3.0 available for Download|https://web.archive.org/web/20070613164038/http://www.tuaw.com:80/2007/06/11/safari-3-0-available-for-download/|exact
+2007-06-11 12:05|Daring Fireball|Safari 3 Public Beta|https://daringfireball.net/linked/2007/06/11/safari-3|approx
+2007-06-11 12:15|TUAW|AAPL down after disappointing WWDC Keynote|https://web.archive.org/web/20070613163914/http://www.tuaw.com:80/2007/06/11/aapl-down-after-disappointing-wwdc-keynote/|exact
+2007-06-11 12:25|AppleInsider|Electronic Arts, id Software announce commitment to Mac gaming|https://appleinsider.com/articles/07/06/11/electronic_arts_id_software_announce_commitment_to_mac_gaming.html|exact
+2007-06-11 13:10|TUAW|Apple announces 3rd parties can write Web 2.0 apps for iPhone|https://web.archive.org/web/20070714231636/http://www.tuaw.com:80/2007/06/11/apple-announces-3rd-parties-can-write-web-2-0-apps-for-iphone/|exact
+2007-06-11 13:50|Gizmodo|Safari 3 on Windoze (Vista): Impressions One Hour In|https://gizmodo.com/safari-3-on-windoze-vista-impressions-one-hour-in-267860|exact
+2007-06-11 15:15|AppleInsider|Apple to launch iPhone at 6 p.m. on June 29|https://appleinsider.com/articles/07/06/11/apple_to_launch_iphone_at_6_p_m_on_june_29.html|exact
+2007-06-11 16:38|Engadget|iPhone APB: Walt already has one|https://www.engadget.com/2007-06-11-iphone-apb-walt-already-has-one.html|exact
+2007-06-11 17:50|AppleInsider|Apple posts WWDC 2007 keynote video-on-demand|https://appleinsider.com/articles/07/06/12/apple_posts_wwdc_2007_keynote_video_on_demand|exact
+2007-06-11 18:57|MacRumors|A Closer Look At Today's Leopard Revelations [Updated]|https://www.macrumors.com/2007/06/11/wwdc-announcements-a-closer-look/|exact
+2007-06-11 20:27|Daring Fireball|WWDC 2007 Keynote News|https://daringfireball.net/2007/06/wwdc_2007_keynote|exact
+2007-06-11 21:00|New York Times|Apple Releasing a Windows Browser|https://www.nytimes.com/2007/06/12/technology/12apple.html|approx
+2007-06-11 21:06|MacRumors|No Adobe Flash Support on the iPhone|https://www.macrumors.com/2007/06/12/no-flash-support-on-the-iphone/|exact
+2007-06-12 07:53|MacRumors|Mossberg's Early iPhone Impressions|https://www.macrumors.com/2007/06/12/mossbergs-early-iphone-impressions/|exact
+2007-06-12 08:00|AppleInsider|iPhone in Europe; YouTube on iPhone; ZFS 'not happening' [updated]|https://appleinsider.com/articles/07/06/12/iphone_in_europe_youtube_on_iphone_zfs_not_happening|exact
+2007-06-12 09:44|MacRumors|"Get ready. iPhone is coming June 29." [Updated]|https://www.macrumors.com/2007/06/12/get-ready-iphone-is-coming-june-29/|exact
+2007-06-12 10:00|Gizmodo|No iPhone SDK Means No Killer iPhone Apps|https://gizmodo.com/no-iphone-sdk-means-no-killer-iphone-apps-267899|exact
+2007-06-12 10:45|Gizmodo|Safari for Windows, Bugs-a-Plenty|https://gizmodo.com/safari-for-windows-bugs-a-plenty-268149|exact
+2007-06-12 13:02|MacRumors|Safari Beta Security Slammed; 8 Vulnerabilities Found|https://www.macrumors.com/2007/06/12/safari-beta-security-slammed-8-vulnerabilities-found/|exact
+2007-06-12 16:55|Daring Fireball|InformationWeek: Apple Says No ZFS in Leopard|https://daringfireball.net/linked/2007/06/12/zfs|approx
+2007-06-12 17:15|Wired|Wired News Benchmarks Show Safari 3 Is Slower Than IE 7, Firefox|https://www.wired.com/2007/06/wired-news-benchmarks-show-safari-3-is-slower-than-ie-7-firefox/|exact
+2007-06-12 21:00|New York Times|That iPhone Has a Keyboard, but It’s Not Mechanical|https://www.nytimes.com/2007/06/13/technology/13phone.ready.html|approx
+2007-06-13 06:30|Daring Fireball|Security Researchers: Safari for Windows Not So Secure|https://daringfireball.net/linked/2007/06/13/saf-win-sec|approx
+2007-06-13 10:00|AppleInsider|No iPhone for business account customers at launch? [More Info]|https://appleinsider.com/articles/07/06/13/no_iphone_for_business_account_customers_at_launch.html|exact
+2007-06-13 16:11|Guardian|Safari on Windows shows path to iPhone|https://www.theguardian.com/technology/2007/jun/14/guardianweeklytechnologysection.internet|exact
+2007-06-13 17:39|MacRumors|iPhone on June 29th at 6pm 'Local Time'|https://www.macrumors.com/2007/06/13/iphone-on-june-29th-at-6pm-local-time/|exact
+2007-06-13 22:29|MacRumors|Amazon Offers Mac OS X 10.5 (Leopard) for Pre-Order [Update]|https://www.macrumors.com/2007/06/14/amazon-offers-mac-os-x-10-5-leopard-for-pre-order/|exact
+2007-06-14 05:49|Engadget|iPhone on sale 6pm "local time"|https://www.engadget.com/2007-06-14-iphone-on-sale-6pm-local-time.html|exact
+2007-06-14 07:22|MacRumors|Safari for Windows Updated to 3.0.1|https://www.macrumors.com/2007/06/14/safari-for-windows-updated-to-3-0-1/|exact
+2007-06-14 13:30|Apple PR|Safari for Windows Public Beta Downloads Top 1 Million in First 48 Hours|https://www.apple.com/newsroom/2007/06/14Safari-for-Windows-Public-Beta-Downloads-Top-1-Million-in-First-48-Hours/|approx
+2007-06-14 14:35|AppleInsider|Safari for Windows downloads Top 1 million|https://appleinsider.com/articles/07/06/14/safari_for_windows_downloads_top_1_million|exact
+2007-06-14 14:45|MacRumors|Safari for Windows Downloads Top 1 Million In 48 Hours|https://www.macrumors.com/2007/06/14/safari-for-windows-downloads-top-1-million-in-48-hours/|exact
+2007-06-14 17:00|TUAW|Safari for Windows hits 1 million downloads in 2 days|https://web.archive.org/web/20070617191426/http://www.tuaw.com:80/2007/06/14/safari-for-windows-hits-1-million-downloads-in-2-days/|exact
+2007-06-14 17:25|MacRumors|New iPod+iTunes Ad: Paul McCartney's ''Dance Tonight''|https://www.macrumors.com/2007/06/14/new-ipod-itunes-ad-paul-mccartneys-dance-tonight/|exact
+2007-06-14 19:58|MacRumors|Apple Unable to Find iPhone Partner in Europe?|https://www.macrumors.com/2007/06/14/apple-unable-to-find-iphone-partner-in-europe/|exact
+2007-06-15 12:42|MacRumors|Apple Bluetooth Headset Receives FCC OK|https://www.macrumors.com/2007/06/15/apple-bluetooth-headset-receives-fcc-ok/|exact
+2007-06-18 06:00|Apple PR|iPhone Delivers Up to Eight Hours of Talk Time|https://www.apple.com/newsroom/2007/06/18iPhone-Delivers-Up-to-Eight-Hours-of-Talk-Time/|approx
+2007-06-18 06:10|MacRumors|Apple iPhone Glass Surface and Battery Life Improved|https://www.macrumors.com/2007/06/18/apple-iphone-glass-surface-and-battery-life-improved/|exact
+2007-06-18 06:15|Gizmodo|Apple Gives iPhone Glass Face and Extends Talk Time To 8 Hours|https://web.archive.org/web/20070620195858/http://gizmodo.com/gadgets/apple/apple-gives-iphone-glass-face-and-extends-talk-time-to-8-hours-269721.php|exact
+2007-06-18 06:20|TUAW|Apple announces iPhone now delivers up to 8 hours of talk time, new glass display|https://web.archive.org/web/20070621024221/http://www.tuaw.com:80/2007/06/18/iphone-delivers-up-to-8-hours-of-talk-time|exact
+2007-06-18 06:25|Engadget|iPhone to feature eight hours of talk, new glass surface|https://www.engadget.com/2007-06-18-iphone-to-feature-eight-hours-of-talk-new-glass-surface.html|exact
+2007-06-18 07:00|AppleInsider|iPhone to feature glass surface, 8 hours of talk time|https://appleinsider.com/articles/07/06/18/iphone_to_feature_glass_surface_8_hours_of_talk_time|exact
+2007-06-18 07:45|TUAW|AAPL spikes $3 on iPhone battery news|https://web.archive.org/web/20070621065818/http://www.tuaw.com:80/2007/06/18/aapl-spikes-3-on-iphone-battery-news/|exact
+2007-06-18 12:15|CNET|Rating the iPhone’s battery life|https://www.cnet.com/culture/rating-the-iphones-battery-life/|exact
+2007-06-18 15:10|Daring Fireball|Apple Announces Better Battery Life for iPhone|https://daringfireball.net/linked/2007/06/18/iphone-pr|approx
+2007-06-19 09:34|MacRumors|iPhone Browser Capabilities and Guidelines|https://www.macrumors.com/2007/06/19/iphone-web-development-guidelines/|exact
+2007-06-19 13:30|Daring Fireball|Exchange Exchange|https://daringfireball.net/2007/06/exchange_exchange|exact
+2007-06-19 21:19|MacRumors|Data Plan Optional? AT&T Activation|https://www.macrumors.com/2007/06/20/data-plan-optional-atandt-activation/|exact
+2007-06-20 05:30|Apple PR|YouTube Live on Apple TV Today; Coming to iPhone on June 29|https://www.apple.com/newsroom/2007/06/20YouTube-Live-on-Apple-TV-Today-Coming-to-iPhone-on-June-29/|approx
+2007-06-20 05:48|MacRumors|YouTube Live Today on Apple TV & Coming to the iPhone [Update]|https://www.macrumors.com/2007/06/20/youtube-to-be-available-on-the-iphone/|exact
+2007-06-20 06:00|AppleInsider|Apple's iPhone to wirelessly stream YouTube content|https://appleinsider.com/articles/07/06/20/apples_iphone_to_wirelessly_stream_youtube_content|exact
+2007-06-20 06:30|Daring Fireball|Apple Announces YouTube App for iPhone|https://daringfireball.net/linked/2007/06/20/iphone-youtube|approx
+2007-06-20 06:30|Reuters|Apple: iPhone to access YouTube content|https://www.cnet.com/tech/tech-industry/apple-iphone-to-access-youtube-content/|exact
+2007-06-20 17:15|AppleInsider|Apple retail stores to close, re-open ahead of iPhone|https://appleinsider.com/articles/07/06/21/apple_retail_stores_to_close_re_open_ahead_of_iphone|exact
+2007-06-21 07:49|MacRumors|New iPhone Television Ad: Youtube [Official Video]|https://www.macrumors.com/2007/06/21/new-iphone-television-ad-youtube/|exact
+2007-06-21 08:00|AppleInsider|AT&T exec: iPhone data plans to be announced June 29th [Updated]|https://appleinsider.com/articles/07/06/21/att_exec_iphone_data_plans_to_be_announced_june_29th|exact
+2007-06-21 08:48|MacRumors|AT&T Expecting Crowds For iPhone Launch|https://www.macrumors.com/2007/06/21/atandt-expecting-crowds-for-iphone-launch/|exact
+2007-06-21 11:20|Daring Fireball|AT&T Says iPhone Rate Plans Will Be Announced Before June 29|https://daringfireball.net/linked/2007/06/21/rate-plans|approx
+2007-06-21 11:50|Reuters|AT&T hires 2,000 workers for iPhone launch|https://www.nbcnews.com/id/wbna19355434|exact
+2007-06-21 12:04|MacRumors|iPhone Voice and Data Plan Rates to Come|https://www.macrumors.com/2007/06/21/iphone-voice-and-data-plan-rates-to-come/|exact
+2007-06-21 12:51|MacRumors|iMac, iPhone References Found In Mac OS 10.4.10 Update|https://www.macrumors.com/2007/06/21/imac-iphone-references-found-in-mac-os-10-4-10-update/|exact
+2007-06-21 22:02|MacRumors|Apple iPhone Displays at Apple Stores (and AT&T Stores) [Updatedx3]|https://www.macrumors.com/2007/06/22/apple-iphone-displays-at-apple-stores/|exact
+2007-06-22 05:58|MacRumors|iPhone Early Cancellation Fee $175|https://www.macrumors.com/2007/06/22/iphone-early-cancellation-fee-175/|exact
+2007-06-22 06:00|AppleInsider|AT&T to impose $175 early iPhone cancelation fee|https://appleinsider.com/articles/07/06/22/att_to_impose_175_early_iphone_cancelation_fee|exact
+2007-06-22 08:15|Daring Fireball|Apple Cynic Watch: Slate’s Jack Shafer|https://daringfireball.net/2007/06/jack_shafer|exact
+2007-06-22 09:12|MacRumors|iPhone Guided Tour and Site Redesign|https://www.macrumors.com/2007/06/22/iphone-guided-tour/|exact
+2007-06-22 09:52|Engadget|Apple takes you on an iPhone guided tour|https://www.engadget.com/2007-06-22-apple-takes-you-on-an-iphone-guided-tour.html|exact
+2007-06-22 10:00|AppleInsider|Apple offers 25-minute iPhone guided tour|https://appleinsider.com/articles/07/06/22/apple_offers_25_minute_iphone_guided_tour|exact
+2007-06-22 10:00|TUAW|Apple posts iPhone welcome video|https://web.archive.org/web/20070626053450/http://www.tuaw.com:80/2007/06/22/apple-posts-iphone-welcome-video/|exact
+2007-06-22 10:32|TUAW|Confirmed: iPhones to be sold online|https://www.engadget.com/2007-06-22-confirmed-iphones-to-be-sold-online.html|exact
+2007-06-22 10:53|MacRumors|iTunes Continues Its Climb: 3rd Largest Music Retailer|https://www.macrumors.com/2007/06/22/itunes-continues-its-climb-3rd-largest-music-retailer/|exact
+2007-06-22 15:00|AppleInsider|Apple plugs holes in WebCore, WebKit, and Safari 3.0 beta|https://appleinsider.com/articles/07/06/22/apple_plugs_holes_in_webcore_webkit_and_safari_3_0_beta|exact
+2007-06-22 17:20|Daring Fireball|iPhone: A Guided Tour|https://daringfireball.net/linked/2007/06/22/iphone-tour|approx
+2007-06-22 18:09|MacRumors|Stress Testing the iPhone|https://www.macrumors.com/2007/06/22/stress-testing-the-iphone/|exact
+2007-06-23 15:22|Daring Fireball|New High-Water Mark in iPhone Jackassery|https://daringfireball.net/2007/06/iphone_high_water_mark|exact
+2007-06-24 11:35|AppleInsider|Memos show AT&T in frantic preparaton for Apple's "iDay"|https://appleinsider.com/articles/07/06/24/memos_show_att_in_frantic_preparaton_for_apples_iday|exact
+2007-06-25 04:45|MacRumors|iPhone 2 at MWSF 2008?|https://www.macrumors.com/2007/06/25/iphone-2-at-mwsf-2008/|exact
+2007-06-25 08:51|MacRumors|AT&T Wireless Store Down for Maintenance [Updated]|https://www.macrumors.com/2007/06/25/atandt-wireless-store-down-for-maintenance/|exact
+2007-06-25 11:05|MacRumors|Possible iPhone Data Plan Pricing?|https://www.macrumors.com/2007/06/25/possible-iphone-data-plan-pricing/|exact
+2007-06-25 15:47|Daring Fireball|Straws, Grasping Thereat|https://daringfireball.net/2007/06/straws_grasping|exact
+2007-06-25 17:18|MacRumors|iPhone Camping Begins, 5th Avenue NYC [Updated]|https://www.macrumors.com/2007/06/25/iphone-camping-begins-5th-avenue-nyc/|exact
+2007-06-25 19:00|AppleInsider|Insanity: First iPhone line forms in Manhattan (four days early)|https://appleinsider.com/articles/07/06/26/insanity_first_iphone_line_forms_in_manhattan_four_days_early|exact
+2007-06-26 05:00|AppleInsider|Apple says iPhone can be activated by users at home|https://appleinsider.com/articles/07/06/26/apple_says_iphone_can_be_activated_by_users_at_home|exact
+2007-06-26 05:00|AppleInsider|Combined iPhone service and data plans to start at $60 per month|https://appleinsider.com/articles/07/06/26/combined_iphone_service_and_data_plans_to_start_at_60_per_month|exact
+2007-06-26 05:30|Apple PR|AT&T and Apple Announce Simple, Affordable Service Plans for iPhone|https://www.apple.com/newsroom/2007/06/26AT-T-and-Apple-Announce-Simple-Affordable-Service-Plans-for-iPhone/|approx
+2007-06-26 05:30|Apple PR|Apple and AT&T Announce iTunes Activation and Sync for iPhone|https://www.apple.com/newsroom/2007/06/26Apple-and-AT-T-Announce-iTunes-Activation-and-Sync-for-iPhone/|approx
+2007-06-26 05:49|TUAW|AT&T and Apple announce service plans, iTunes activation for iPhone|https://www.engadget.com/2007-06-26-atandt-and-apple-announce-service-plans-itunes-activation-for-iph.html|exact
+2007-06-26 05:50|MacRumors|Apple Announces iPhone Service Plans [Updated]|https://www.macrumors.com/2007/06/26/apple-announces-iphone-service-plans/|exact
+2007-06-26 06:19|Gizmodo|Apple and AT&T Roll Out Three "Simple" Service Plans|https://gizmodo.com/apple-and-at-t-roll-out-three-simple-service-plans-272270|exact
+2007-06-26 06:20|Gizmodo|Apple Makes iPhone Activation Easy as Pie|https://gizmodo.com/apple-makes-iphone-activation-easy-as-pie-272264|exact
+2007-06-26 06:26|Engadget|iPhone rate plans revealed, at-home activation announced|https://www.engadget.com/2007-06-26-iphone-rate-plans-revealed-at-home-activation-announced.html|exact
+2007-06-26 07:05|MacRumors|iPhone Activation and Syncing Video|https://www.macrumors.com/2007/06/26/iphone-activation-and-syncing-video/|exact
+2007-06-26 08:07|MacRumors|First iPhone Reviews Coming Tonight?|https://www.macrumors.com/2007/06/26/first-iphone-reviews-coming-tonight/|exact
+2007-06-26 08:39|MacRumors|More Leopard Features Unveiled: Full-Screen QT, DVD Player, more|https://www.macrumors.com/2007/06/26/more-leopard-features-unveiled/|exact
+2007-06-26 09:00|TUAW|iPhone line forming in NYC|https://web.archive.org/web/20070628151233/http://www.tuaw.com:80/2007/06/26/iphone-line-forming-in-nyc/|exact
+2007-06-26 09:15|Daring Fireball|iPhone Service Plans Announced|https://daringfireball.net/linked/2007/06/26/service-plans|approx
+2007-06-26 09:31|Daring Fireball|Regarding the 80 GB iPhone Capacity in the Activation and Sync Video|https://daringfireball.net/2007/06/80_gb|exact
+2007-06-26 12:00|MacRumors|iPhone Subtleties: Feature Lock, Capacity|https://www.macrumors.com/2007/06/26/iphone-subtleties-capacity-feature-lock/|exact
+2007-06-26 15:00|New York Times|The iPhone Matches Most of Its Hype|https://www.nytimes.com/2007/06/27/technology/circuits/27pogue.html|approx
+2007-06-26 15:00|Newsweek|First Look: Test Driving the iPhone|https://www.newsweek.com/first-look-test-driving-iphone-102625|approx
+2007-06-26 15:00|USA Today|Apple's iPhone isn't perfect, but it's worthy of the hype|https://usatoday30.usatoday.com/tech/columnist/edwardbaig/2007-06-26-iphone-review_N.htm|approx
+2007-06-26 15:00|Wall Street Journal|The iPhone Is a Breakthrough Handheld Computer|https://allthingsd.com/20070626/the-iphone-is-breakthrough-handheld-computer/|approx
+2007-06-26 15:11|MacRumors|First iPhone Review from Walt Mossberg|https://www.macrumors.com/2007/06/26/first-iphone-review-from-walt-mossberg/|exact
+2007-06-26 15:12|Gizmodo|Breaking: Pogue Reviews the iPhone, Gives it 1.5 Thumbs Up|https://gizmodo.com/breaking-pogue-reviews-the-iphone-gives-it-1-5-thumbs-272543|exact
+2007-06-26 15:15|Gizmodo|Breaking: Mossberg Reviews the iPhone, Says Keyboard A-OK After Five Days|https://gizmodo.com/breaking-mossberg-reviews-the-iphone-says-keyboard-a-272540|exact
+2007-06-26 15:39|MacRumors|More Official iPhone Reviews|https://www.macrumors.com/2007/06/26/more-iphone-reviews/|exact
+2007-06-26 15:45|Daring Fireball|Pogue: ‘The iPhone Matches Most of Its Hype’|https://daringfireball.net/linked/2007/06/26/pogue-iphone|approx
+2007-06-26 16:00|AppleInsider|WSJ's Mossberg calls iPhone a 'breakthrough handheld computer'|https://appleinsider.com/articles/07/06/26/wsjs_mossberg_calls_iphone_a_breakthrough_handheld_computer|exact
+2007-06-26 16:20|TUAW|First "official" reviews of the iPhone are out|https://web.archive.org/web/20070629184842/http://www.tuaw.com:80/2007/06/26/first-official-reviews-of-the-iphone-are-out/|exact
+2007-06-26 16:48|Engadget|Apple iPhone review roundup|https://www.engadget.com/2007-06-26-first-apple-iphone-reviews-trickle-out.html|exact
+2007-06-26 16:59|Daring Fireball|iPhone Doubter of the Year|https://daringfireball.net/2007/06/platt|exact
+2007-06-26 17:00|AppleInsider|NYT's David Pogue: 'AT&Ts EDGE network is excruciatingly slow'|https://appleinsider.com/articles/07/06/27/nyts_david_pogue_atts_edge_network_is_excruciatingly_slow|exact
+2007-06-26 17:19|Engadget|iPhone facts from the first reviews|https://www.engadget.com/2007-06-26-iphone-facts-from-the-first-reviews.html|exact
+2007-06-26 17:31|Gizmodo|Finally Confirmed: What the iPhone Doesn't Have|https://gizmodo.com/finally-confirmed-what-the-iphone-doesnt-have-272571|exact
+2007-06-26 17:34|Gizmodo|Newsweek's Steven Levy Loves the iPhone|https://gizmodo.com/newsweeks-steven-levy-loves-the-iphone-272580|exact
+2007-06-26 17:40|Daring Fireball|Walt Mossberg’s iPhone Review|https://daringfireball.net/linked/2007/06/26/mossberg|approx
+2007-06-26 19:10|AppleInsider|More iPhone reviews: Newsweek and USA Today|https://appleinsider.com/articles/07/06/27/more_iphone_reviews_newsweek_and_usa_today|exact
+2007-06-27 00:08|MacRumors|AT&T's iPhone FAQ and Policies|https://www.macrumors.com/2007/06/27/atandts-iphone-faq-and-policies/|exact
+2007-06-27 07:00|MacRumors|iPhone Competitor Talking Points Revealed|https://www.macrumors.com/2007/06/27/iphone-competitor-talking-points-revealed/|exact
+2007-06-27 09:01|MacRumors|VPN Support in iPhone, What's in the Box, Specs|https://www.macrumors.com/2007/06/27/vpn-support-in-iphone-whats-in-the-box-specs/|exact
+2007-06-27 10:32|MacRumors|iTunes 7.3 with Custom Ringtones? [Updatedx2]|https://www.macrumors.com/2007/06/27/itunes-7-3-with-custom-ringtones/|exact
+2007-06-27 11:42|Daring Fireball|Acting Up|https://daringfireball.net/2007/06/acting_up|exact
+2007-06-27 12:01|MacRumors|iPhone Box Photo and Video Review|https://www.macrumors.com/2007/06/27/iphone-box-photo-and-video-review/|exact
+2007-06-27 13:00|AppleInsider|AT&T: iPhone sales limited to 'one per person'|https://appleinsider.com/articles/07/06/27/att_iphone_sales_limited_to_one_per_person|exact
+2007-06-27 14:10|MacRumors|iPhone Availability on June 29th|https://www.macrumors.com/2007/06/27/iphone-availability-one-per-person/|exact
+2007-06-28 05:59|Engadget|Apple lays down iPhone purchase rules -- max 2 per person|https://www.engadget.com/2007-06-28-apple-lays-down-iphone-purchase-rules-max-2-per-person.html|exact
+2007-06-28 06:15|Apple PR|iPhone Premieres This Friday Night at Apple Retail Stores|https://www.apple.com/newsroom/2007/06/28iPhone-Premieres-This-Friday-Night-at-Apple-Retail-Stores/|approx
+2007-06-28 06:28|MacRumors|Two iPhones Per Person at Apple Stores|https://www.macrumors.com/2007/06/28/two-iphones-per-person-at-apple-stores/|exact
+2007-06-28 07:00|AppleInsider|Apple sets two iPhone limit; says stores will operate till midnight|https://appleinsider.com/articles/07/06/28/apple_sets_two_iphone_limit_says_stores_will_operate_till_midnight|exact
+2007-06-28 07:30|Daring Fireball|Apple: iPhone Premieres This Friday Night|https://daringfireball.net/linked/2007/06/28/premiere|approx
+2007-06-28 09:55|MacRumors|Apple and AT&T Store iPhone Inventory|https://www.macrumors.com/2007/06/28/apple-and-atandt-store-iphone-inventory/|exact
+2007-06-28 12:05|TUAW|Apple employees to get free iPhones|https://web.archive.org/web/20070701042740/http://www.tuaw.com:80/2007/06/28/apple-employees-to-get-iphones/|exact
+2007-06-28 12:19|MacRumors|Steve Jobs: Free iPhones for Apple Employees, Town Hall Notes|https://www.macrumors.com/2007/06/28/steve-jobs-free-iphones-for-apple-employees/|exact
+2007-06-28 12:39|MacRumors|iPhones Arriving and Being Unpacked (Photos)|https://www.macrumors.com/2007/06/28/iphones-arriving-and-being-unpacked/|exact
+2007-06-28 12:40|AppleInsider|Santa Steve dishes free iPhones, next-gen iPod and Mac hints|https://appleinsider.com/articles/07/06/28/santa_steve_dishes_free_iphones_next_gen_ipod_and_mac_hints|exact
+2007-06-28 15:56|MacRumors|Wall Street Journal Q&A With Steve Jobs [Updated]|https://www.macrumors.com/2007/06/28/wall-street-journal-qanda-with-steve-jobs/|exact
+2007-06-28 16:29|Wired|Steve Jobs and AT&T CEO Randall Stephenson Defend IPhone's Use of AT&T's Edge Network|https://www.wired.com/2007/06/iphone-qa-steve/|exact
+2007-06-28 18:00|AppleInsider|Apple Store San Fran iPhone line already a three-ring circus|https://appleinsider.com/articles/07/06/29/apple_store_san_fran_iphone_line_already_a_three_ring_circus|exact
+2007-06-28 20:39|MacRumors|AT&T's EDGE Network: Now Snappier?|https://www.macrumors.com/2007/06/28/atandts-edge-network-now-snappier/|exact
+2007-06-28 21:00|New York Times|Chiefs Defend Slow Network for the iPhone|https://www.nytimes.com/2007/06/29/technology/29phone.html|approx
+2007-06-28 22:40|Gizmodo|A Video Tour Down the SF iPhone Line|https://gizmodo.com/a-video-tour-down-the-sf-iphone-line-273468|exact
+2007-06-29 00:41|MacRumors|iPhone Screenshots: Calendar, Widgets, Sim Removal|https://www.macrumors.com/2007/06/29/iphone-screenshots-calendar-widgets-sim-removal/|exact
+2007-06-29 05:29|BBC|Apple iPhone faces serious rivals|http://news.bbc.co.uk/1/hi/technology/6253704.stm|exact
+2007-06-29 07:07|MacRumors|Apple Releases iTunes 7.3 Update for iPhone [Update: And AppleTV]|https://www.macrumors.com/2007/06/29/apple-releases-itunes-7-3-update-for-iphone/|exact
+2007-06-29 07:30|TUAW|Happy iPhone Day|https://web.archive.org/web/20070701233702/http://www.tuaw.com:80/2007/06/29/happy-iphone-day/|exact
+2007-06-29 07:40|AppleInsider|Apple offers iPhone "Finger Tips" video tutorial|https://appleinsider.com/articles/07/06/29/apple_offers_iphone_finger_tips_video_tutorial|exact
+2007-06-29 07:45|AppleInsider|iTunes 7.3 supports iPhone, adds Apple TV photo streaming|https://appleinsider.com/articles/07/06/29/itunes_7_3_supports_iphone_adds_apple_tv_photo_streaming|exact
+2007-06-29 08:30|Daring Fireball|iTunes 7.3|https://daringfireball.net/linked/2007/06/29/itunes|approx
+2007-06-29 08:30|TUAW|Line Report: AT&T store, Union Square NYC|https://web.archive.org/web/20070701202116/http://www.tuaw.com:80/2007/06/29/line-report-atandt-store-union-square-nyc/|exact
+2007-06-29 11:02|MacRumors|The iPhone Wait|https://www.macrumors.com/2007/06/29/the-iphone-wait/|exact
+2007-06-29 11:32|MacRumors|3G iPhone for UK Customers?|https://www.macrumors.com/2007/06/29/3g-iphone-for-uk-customers/|exact
+2007-06-29 11:51|MacRumors|Apple Stores Closed at 2pm, iPhone Wait|https://www.macrumors.com/2007/06/29/apple-stores-closed-at-2pm-iphone-wait/|exact
+2007-06-29 11:54|Guardian|iPhone causes big Apple swarm in Big Apple storms|https://www.theguardian.com/news/2007/jun/29/usnews.apple|exact
+2007-06-29 12:03|AP|Why did the Philly mayor leave the iPhone line?|https://www.nbcnews.com/id/wbna19508671|exact
+2007-06-29 13:00|AppleInsider|iPhones roll into Apple Store Fifth Ave. in Manhattan (photos)|https://appleinsider.com/articles/07/06/29/iphones_roll_into_apple_store_fifth_ave_in_manhattan_photos|exact
+2007-06-29 13:00|Daring Fireball|Of Course I’m in Line|https://daringfireball.net/linked/2007/06/29/in-line|approx
+2007-06-29 14:34|CNET|With a half hour to go, NYC’s iPhone crowds scramble for Starbucks, Pogue|https://www.cnet.com/culture/with-a-half-hour-to-go-nycs-iphone-crowds-scramble-for-starbucks-pogue/|exact
+2007-06-29 15:03|TUAW|5th Avenue Live Blog|https://www.engadget.com/2007-06-29-5th-avenue-live-blog.html|exact
+2007-06-29 15:27|AP|Eager customers snap up first iPhones|https://www.nbcnews.com/id/wbna19512577|exact
+2007-06-29 15:34|MacRumors|iPhones have Arrived (Unboxing Photos)|https://www.macrumors.com/2007/06/29/iphones-have-arrived/|exact
+2007-06-29 15:45|Gizmodo|iPhone Live Unboxing NOW|https://gizmodo.com/iphone-live-unboxing-now-273844|exact
+2007-06-29 15:48|Engadget|iPhone splayed for your pleasure|https://www.engadget.com/2007-06-29-iphone-splayed-for-your-pleasure.html|exact
+2007-06-29 16:00|TUAW|First iPhone unboxing video!|https://web.archive.org/web/20070701201341/http://www.tuaw.com:80/2007/06/29/first-iphone-unboxing-video/|exact
+2007-06-29 16:01|Engadget|Engadget's first iPhone unboxing!|https://www.engadget.com/2007-06-29-engadgets-first-iphone-unboxing.html|exact
+2007-06-29 16:09|MacRumors|iPhone User Guide Posted|https://www.macrumors.com/2007/06/29/iphone-user-guide-posted/|exact
+2007-06-29 16:20|BBC|Apple's iPhone makes it to stores|http://news.bbc.co.uk/1/hi/technology/6250192.stm|exact
+2007-06-29 16:30|New York Times|Long-Awaited iPhone Goes on Sale|https://www.nytimes.com/2007/06/29/technology/29cnd-phone.html|approx
+2007-06-29 16:40|MacRumors|iFixIt: iPhone Disassembly|https://www.macrumors.com/2007/06/29/ifixit-iphone-disassembly/|exact
+2007-06-29 17:02|TUAW|iPhone Take Apart|https://web.archive.org/web/20070703044454/http://www.tuaw.com:80/2007/06/29/iphone-take-apart/|exact
+2007-06-29 17:10|Engadget|iPhone first hands-on and unboxing|https://www.engadget.com/2007-06-29-iphone-first-hands-on-and-unboxing.html|exact
+2007-06-29 17:15|Gizmodo|iPhone Activation Screen Gallery|https://gizmodo.com/iphone-activation-screen-gallery-273881|exact
+2007-06-29 17:35|AppleInsider|Apple posts iPhone User Guide, tech notes|https://appleinsider.com/articles/07/06/30/apple_posts_iphone_user_guide|exact
+2007-06-29 18:02|Gizmodo|Apple Store is Now Up|https://gizmodo.com/apple-store-is-now-up-273898|exact
+2007-06-29 18:03|MacRumors|iPhone Now at Apple Store|https://www.macrumors.com/2007/06/29/iphone-now-at-apple-store/|exact
+2007-06-29 18:08|TUAW|While some sit in raptured bliss, others await activation|https://www.engadget.com/2007-06-29-while-some-sit-in-raptured-bliss-others-await-activation.html|exact
+2007-06-29 18:18|Engadget|iPhone multi-city lineblog|https://www.engadget.com/2007-06-29-iphone-multi-city-lineblog.html|exact
+2007-06-29 18:30|Daring Fireball|iPhone Availability at store.apple.com: 2-4 Weeks|https://daringfireball.net/linked/2007/06/29/apple-store|approx
+2007-06-29 19:00|AppleInsider|iPhone teardown reveals better-than-iPod construction (photos)|https://appleinsider.com/articles/07/06/30/iphone_teardown_reveals_better_than_ipod_construction_photos|exact
+2007-06-29 19:07|BBC|Fans turn out for 'rock star' iPhone|http://news.bbc.co.uk/1/hi/technology/6255334.stm|exact
+2007-06-29 19:27|CNET|To cheers, iPhone docks in San Francisco|https://www.cnet.com/culture/to-cheers-iphone-docks-in-san-francisco/|exact
+2007-06-29 19:52|Gizmodo|Apple iPhone Dismantled|https://gizmodo.com/apple-iphone-dismantled-273907|exact
+2007-06-29 21:00|Time|"I Take the iPhone Home"|https://time.com/archive/6903988/i-take-the-iphone-home/|approx
+2007-06-29 21:05|AppleInsider|Apple sells iPhone online with 2-4 week delay|https://appleinsider.com/articles/07/06/30/apple_sells_iphone_online_with_2_4_week_delay|exact
+2007-06-29 21:24|Gizmodo|Apple iPhones Still Available in SF, NY|https://gizmodo.com/apple-iphones-still-available-in-sf-ny-273917|exact
+2007-06-29 21:30|TUAW|iPhone First Impressions|https://web.archive.org/web/20070703044247/http://www.tuaw.com:80/2007/06/30/iphone-first-impressions/|exact
+2007-06-29 22:07|CNET|iPhone supply lives to sell another day|https://www.cnet.com/culture/iphone-supply-lives-to-sell-another-day/|exact
+2007-06-29 22:34|Wired|IPhone Activation Could Take an Hour, May Not Require a Contract|https://www.wired.com/2007/06/iphone-activati/|exact
+2007-06-29 23:00|Daring Fireball|Activation Delays for Some|https://daringfireball.net/linked/2007/06/30/activation|approx
+2007-06-30 00:06|Engadget|iPhone first hands-on video in HD!|https://www.engadget.com/2007-06-30-iphone-first-hands-on-video.html|exact
+2007-06-30 00:57|Engadget|iPhone activations hosed until morning?|https://www.engadget.com/2007-06-30-iphone-activations-hosed-until-morning.html|exact
+2007-06-30 01:34|Daring Fireball|iPhone First Impressions|https://daringfireball.net/2007/06/iphone_first_impressions|exact
+2007-06-30 03:10|Engadget|iPhone stress test: how did it do?|https://www.engadget.com/2007-06-30-iphone-stress-test-how-did-it-do.html|exact
+2007-06-30 06:45|MacRumors|AT&T To Acquire Dobson Communications, Expanded Rural Service Coming|https://www.macrumors.com/2007/06/30/atandt-to-acquire-cellular-one-expanded-rural-service-coming/|exact
+2007-06-30 07:24|TUAW|iPhone Second Impressions: On activation, UI, EDGE and answering questions|https://www.engadget.com/2007-06-30-iphone-second-impressions-on-activation-ui-edge-and-answering.html|exact
+2007-06-30 09:05|CNET|Big iPhone headache: Waiting for AT&T activation|https://www.cnet.com/culture/big-iphone-headache-waiting-for-at-t-activation/|exact
+2007-06-30 09:30|TUAW|iPhone orders at online Apple Store see 2-4 week delays|https://www.engadget.com/2007-06-30-iphone-orders-at-online-apple-store-see-2-4-week-delays.html|exact
+2007-06-30 10:19|MacRumors|iPhone Experiences and Reviews|https://www.macrumors.com/2007/06/30/iphone-experiences-and-reviews/|exact
+2007-06-30 10:35|AppleInsider|Woz leads charge at iPhone's Apple Store Valley Fair debut (photos)|https://appleinsider.com/articles/07/06/30/woz_leads_charge_at_iphones_apple_store_valley_fair_debut_photos|exact
+2007-06-30 11:00|TUAW|Steve shows up for iPhone launch|https://web.archive.org/web/20070703044642/http://www.tuaw.com:80/2007/06/30/steve-shows-up-for-iphone-launch/|exact
+2007-06-30 12:49|Reuters|AT&T says almost sold out of Apple iPhones|https://www.cnet.com/culture/at-t-says-almost-sold-out-of-apple-iphones/|exact
+2007-06-30 12:53|MacRumors|Porting 'Ineligible' Mobile Numbers to iPhone|https://www.macrumors.com/2007/06/30/porting-ineligible-mobile-numbers-to-iphone/|exact
+2007-06-30 13:00|Gizmodo|Having Trouble Activating Your iPhone?|https://gizmodo.com/having-trouble-activating-your-iphone-273972|exact
+2007-06-30 14:18|MacRumors|Apple Now Owns iPhone.com|https://www.macrumors.com/2007/06/30/apple-now-owns-iphone-com/|exact
+2007-06-30 15:58|MacRumors|AT&T Sold Out of iPhones|https://www.macrumors.com/2007/06/30/atandt-sold-out-of-iphones/|exact
+2007-06-30 18:24|MacRumors|iPhone OS Restore Image (93MB)|https://www.macrumors.com/2007/06/30/iphone-os-restore-image/|exact
+2007-06-30 18:29|Gizmodo|Breaking: Several AT&T Stores Forced Customers to Buy Accessories With iPhone|https://gizmodo.com/breaking-several-at-t-stores-forced-customers-to-buy-a-273992|exact
+2007-06-30 18:30|Daring Fireball|AT&T Says Almost Sold Out of iPhones|https://daringfireball.net/linked/2007/06/30/sold-out|approx
+2007-06-30 18:42|Engadget|iPhones sold out at a few Apple stores, many AT&T stores|https://www.engadget.com/2007-06-30-iphones-sold-out-at-a-few-apple-stores-many-atandt-stores.html|exact
+2007-06-30 20:01|Gizmodo|Videos of the iPhone's Guts, Both Academic and Destructive|https://gizmodo.com/videos-of-the-iphones-guts-both-academic-and-destructi-273996|exact
+2007-06-30 20:20|AppleInsider|iPhone supply running low with AT&T, some Apple Stores|https://appleinsider.com/articles/07/06/30/iphone_supply_running_low_with_att_some_apple_stores.html|exact
+2007-07-01 01:15|MacRumors|Apple Posts iPhone Launch Day Gallery|https://www.macrumors.com/2007/07/01/apple-posts-iphone-launch-day-gallery/|exact
+2007-07-01 22:46|MacRumors|AT&T Activation Delays for iPhone Buyers|https://www.macrumors.com/2007/07/02/atandt-activation-delays-for-iphone-buyers/|exact
+2007-07-02 08:50|MacRumors|iPhone Sales Estimates 250,000-525,000|https://www.macrumors.com/2007/07/02/iphone-sales-estimates-250000-525000/|exact
+2007-07-02 09:33|MacRumors|Apple iPhone Battery Replacement $85.95|https://www.macrumors.com/2007/07/02/apple-iphone-battery-replacement-85-95/|exact
+2007-07-02 10:11|MacRumors|iPhone Teardown Puts Components at $220|https://www.macrumors.com/2007/07/02/iphone-teardown-puts-components-at-220/|exact
+2007-07-02 13:47|MacRumors|Online Apple Store iPhone Orders Shipping July 6th|https://www.macrumors.com/2007/07/02/online-apple-store-iphone-orders-shipping-july-6th/|exact
