@@ -5,22 +5,33 @@ headline is shifted forward 7,056 days and keeps its original US Pacific time of
 day, so the original iPhone going on sale (Friday 29 June 2007, 6pm PT) lands
 on iPhone Duo launch day, Friday 23 October 2026.
 
-Subscribe: https://veitch123.github.io/iphone-2007/feed.xml
+Subscribe: https://iphone-2007.james-veitch.workers.dev/feed.xml
 
 ## How it works
 
+The feed is a Cloudflare Worker (free plan). Each time a reader checks, the
+Worker includes only the headlines whose replay time has passed. Nothing runs
+between checks, and nothing is scheduled.
+
 - `items.txt` holds the headlines, one per line:
   `YYYY-MM-DD HH:MM (Pacific)|source|headline|url|exact-or-approx`
-- `build.py` releases the headlines whose shifted time has passed and writes
-  `_site/feed.xml` and `_site/index.html`. Standard library only.
-- `.github/workflows/feed.yml` runs the build every 15 minutes and deploys to
-  GitHub Pages only when a new headline is due.
+- `build.py` renders every headline and can build a static copy of the feed
+  for any moment, for previewing. Standard library only.
+- `make_worker.py` packs the rendered headlines into `worker/src/data.js`.
+- `worker/src/index.js` is the Worker itself.
 
 Preview any moment locally:
 
 ```
 python3 build.py 2026-10-23T18:10:00-07:00
 open _site/index.html
+```
+
+After changing `items.txt`, republish:
+
+```
+python3 make_worker.py
+cd worker && npx wrangler deploy
 ```
 
 ## Timeline

@@ -31,7 +31,7 @@ SHIFT_DAYS = 7056  # 2007-06-29 -> 2026-10-23
 FIRST_DAY = "2007-06-05"  # = Tue 29 Sep 2026, the day the replay started; nothing earlier is ever released
 ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "_site"
-SITE_URL = os.environ.get("SITE_URL", "https://veitch123.github.io/iphone-2007/").rstrip("/") + "/"
+SITE_URL = os.environ.get("SITE_URL", "https://iphone-2007.james-veitch.workers.dev/").rstrip("/") + "/"
 TITLE = "iPhone 2007 Replay"
 DESCRIPTION = (
     "Real Apple news from June 2007, replayed in real time so the original "
