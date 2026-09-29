@@ -69,58 +69,80 @@ def original_label(item):
     return f"Originally published {when}" + (" (time approximate)" if item["approx"] else " PDT")
 
 
-def build_rss(released, now):
-    out = [
+def rfc822(dt):
+    return format_datetime(dt.astimezone(timezone.utc), usegmt=True)
+
+
+def next_label(item):
+    return item["replay"].astimezone(UK).strftime("%a %-d %b at %H:%M UK time")
+
+
+def rss_head(site, last_build):
+    return "\n".join([
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">',
         "<channel>",
         f"<title>{escape(TITLE)}</title>",
-        f"<link>{escape(SITE_URL)}</link>",
-        f'<atom:link href="{escape(SITE_URL)}feed.xml" rel="self" type="application/rss+xml"/>',
+        f"<link>{escape(site)}</link>",
+        f'<atom:link href="{escape(site)}feed.xml" rel="self" type="application/rss+xml"/>',
         f"<description>{escape(DESCRIPTION)}</description>",
         "<language>en</language>",
-        f"<lastBuildDate>{format_datetime(now.astimezone(timezone.utc), usegmt=True)}</lastBuildDate>",
+        f"<lastBuildDate>{last_build}</lastBuildDate>",
         "<ttl>30</ttl>",
-    ]
-    for item in released:
-        desc = f"<p>{html.escape(item['source'])}. {html.escape(original_label(item))}.</p>"
-        out += [
-            "<item>",
-            f"<title>{escape(item['headline'])}</title>",
-            f"<link>{escape(item['url'])}</link>",
-            f'<guid isPermaLink="false">{item["guid"]}</guid>',
-            f"<pubDate>{format_datetime(item['replay'].astimezone(timezone.utc), usegmt=True)}</pubDate>",
-            f"<dc:creator>{escape(item['source'])}</dc:creator>",
-            f"<category>{escape(item['source'])}</category>",
-            f"<description>{escape(desc)}</description>",
-            "</item>",
-        ]
-    out += ["</channel>", "</rss>", ""]
-    return "\n".join(out)
+        "",
+    ])
+
+
+RSS_TAIL = "</channel>\n</rss>\n"
+
+
+def item_xml(item):
+    desc = f"<p>{html.escape(item['source'])}. {html.escape(original_label(item))}.</p>"
+    return "\n".join([
+        "<item>",
+        f"<title>{escape(item['headline'])}</title>",
+        f"<link>{escape(item['url'])}</link>",
+        f'<guid isPermaLink="false">{item["guid"]}</guid>',
+        f"<pubDate>{rfc822(item['replay'])}</pubDate>",
+        f"<dc:creator>{escape(item['source'])}</dc:creator>",
+        f"<category>{escape(item['source'])}</category>",
+        f"<description>{escape(desc)}</description>",
+        "</item>",
+        "",
+    ])
+
+
+def item_html(item):
+    uk = item["replay"].astimezone(UK).strftime("%a %-d %b, %H:%M")
+    return (
+        f'<li><a href="{html.escape(item["url"])}">{html.escape(item["headline"])}</a>'
+        f'<span class="meta">{html.escape(item["source"])} · {uk} UK · '
+        f'{html.escape(original_label(item))}</span></li>\n'
+    )
+
+
+def build_rss(released, now):
+    last = rfc822(released[0]["replay"]) if released else rfc822(now)
+    return rss_head(SITE_URL, last) + "".join(item_xml(i) for i in released) + RSS_TAIL
 
 
 def build_html(released, upcoming, total, now):
-    rows = []
-    for item in released:
-        uk = item["replay"].astimezone(UK).strftime("%a %-d %b, %H:%M")
-        rows.append(
-            f'<li><a href="{html.escape(item["url"])}">{html.escape(item["headline"])}</a>'
-            f'<span class="meta">{html.escape(item["source"])} · {uk} UK · '
-            f'{html.escape(original_label(item))}</span></li>'
-        )
     if upcoming:
-        nxt = upcoming[0]["replay"].astimezone(UK).strftime("%a %-d %b at %H:%M UK time")
-        status = f"{len(released)} of {total} headlines released. Next one {nxt}."
+        status = f"{len(released)} of {total} headlines released. Next one {next_label(upcoming[0])}."
     else:
         status = f"All {total} headlines released. The replay is over."
-    body = "\n".join(rows) or "<li>Nothing released yet.</li>"
+    rows = "".join(item_html(i) for i in released) or "<li>Nothing released yet.</li>\n"
+    return page(SITE_URL, html.escape(status), rows)
+
+
+def page(site, status, body):
     return f"""<!doctype html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{TITLE}</title>
-<link rel="alternate" type="application/rss+xml" title="{TITLE}" href="{SITE_URL}feed.xml">
+<link rel="alternate" type="application/rss+xml" title="{TITLE}" href="{site}feed.xml">
 <style>
 :root {{ --bg:#fbfbfa; --fg:#1d1d1f; --muted:#6e6e73; --link:#0a58ca; --rule:#e3e3e6; }}
 @media (prefers-color-scheme: dark) {{ :root {{ --bg:#141416; --fg:#f2f2f4; --muted:#9a9aa0; --link:#7ab4ff; --rule:#2c2c30; }} }}
@@ -140,8 +162,8 @@ li a {{ text-decoration:none; font-weight:500; }}
 <main>
 <h1>{TITLE}</h1>
 <p>{html.escape(DESCRIPTION)}</p>
-<p>{html.escape(status)}</p>
-<a class="subscribe" href="{SITE_URL}feed.xml">Subscribe: {SITE_URL}feed.xml</a>
+<p>{status}</p>
+<a class="subscribe" href="{site}feed.xml">Subscribe: {site}feed.xml</a>
 <ul>
 {body}
 </ul>
